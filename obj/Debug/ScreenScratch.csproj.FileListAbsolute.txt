@@ -1,0 +1,10 @@
+D:\Project\ScreenScratch\ScreenScratch\bin\Debug\ScreenScratch.exe
+D:\Project\ScreenScratch\ScreenScratch\bin\Debug\ScreenScratch.pdb
+D:\Project\ScreenScratch\ScreenScratch\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\ScreenScratch\ScreenScratch\obj\Debug\ScreenScratch.MainForm.resources
+D:\Project\ScreenScratch\ScreenScratch\obj\Debug\ScreenScratch.Properties.Resources.resources
+D:\Project\ScreenScratch\ScreenScratch\obj\Debug\ScreenScratch.csproj.GenerateResource.Cache
+D:\Project\ScreenScratch\ScreenScratch\obj\Debug\ScreenScratch.exe
+D:\Project\ScreenScratch\ScreenScratch\obj\Debug\ScreenScratch.pdb
+D:\Project\ScreenScratch\ScreenScratch\bin\Debug\ScreenScratch.exe.config
+D:\Project\ScreenScratch\ScreenScratch\obj\Debug\ScreenScratch.ChooseForm.resources

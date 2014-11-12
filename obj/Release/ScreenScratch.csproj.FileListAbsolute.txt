@@ -1,0 +1,34 @@
+D:\Project\ScreenScratch\ScreenScratch\bin\Release\LoGOGO.ico
+D:\Project\ScreenScratch\ScreenScratch\bin\Release\ScreenScratch.exe.config
+D:\Project\ScreenScratch\ScreenScratch\bin\Release\ScreenScratch.exe
+D:\Project\ScreenScratch\ScreenScratch\bin\Release\ScreenScratch.pdb
+D:\Project\ScreenScratch\ScreenScratch\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Project\ScreenScratch\ScreenScratch\obj\Release\ResolveAssemblyReference.cache
+D:\Project\ScreenScratch\ScreenScratch\obj\Release\ScreenScratch.ChooseForm.resources
+D:\Project\ScreenScratch\ScreenScratch\obj\Release\ScreenScratch.MainForm.resources
+D:\Project\ScreenScratch\ScreenScratch\obj\Release\ScreenScratch.Properties.Resources.resources
+D:\Project\ScreenScratch\ScreenScratch\obj\Release\ScreenScratch.csproj.GenerateResource.Cache
+D:\Project\ScreenScratch\ScreenScratch\obj\Release\ScreenScratch.exe
+D:\Project\ScreenScratch\ScreenScratch\obj\Release\ScreenScratch.pdb
+D:\Project\ScreenScratch\ScreenScratch\bin\Release\Interop.WMPLib.dll
+D:\Project\ScreenScratch\ScreenScratch\bin\Release\AxInterop.WMPLib.dll
+D:\Project\ScreenScratch\ScreenScratch\obj\Release\Interop.WMPLib.dll
+D:\Project\ScreenScratch\ScreenScratch\obj\Release\AxInterop.WMPLib.dll
+D:\Project\ScreenScratch\ScreenScratch\obj\Release\ScreenScratch.csproj.ResolveComReference.cache
+D:\Project\ScreenScratch\ScreenScratch\obj\Release\ScreenScratch.Mediaplayer.resources
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\obj\Release\Interop.WMPLib.dll
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\obj\Release\AxInterop.WMPLib.dll
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\obj\Release\ScreenScratch.csproj.ResolveComReference.cache
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\obj\Release\ScreenScratch.exe
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\obj\Release\ScreenScratch.pdb
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\obj\Release\ResolveAssemblyReference.cache
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\obj\Release\ScreenScratch.MainForm.resources
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\obj\Release\ScreenScratch.Mediaplayer.resources
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\obj\Release\ScreenScratch.Properties.Resources.resources
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\obj\Release\ScreenScratch.csproj.GenerateResource.Cache
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\bin\Release\LoGOGO.ico
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\bin\Release\ScreenScratch.exe
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\bin\Release\ScreenScratch.pdb
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\bin\Release\Interop.WMPLib.dll
+D:\Project\ScreenScratch Version 3.0\ScreenScratch\bin\Release\AxInterop.WMPLib.dll
